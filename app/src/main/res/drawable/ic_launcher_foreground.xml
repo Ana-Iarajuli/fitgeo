@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Simple apple shape on the adaptive-icon safe zone (108dp canvas, ~66dp safe area) -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,40 C46,34 34,36 34,52 C34,66 44,76 50,76 C52,76 53,75 54,75 C55,75 56,76 58,76 C64,76 74,66 74,52 C74,36 62,34 54,40 Z" />
+    <path
+        android:fillColor="#C8E6C9"
+        android:pathData="M54,40 C54,34 57,30 63,28 C63,34 60,38 54,40 Z" />
+</vector>
